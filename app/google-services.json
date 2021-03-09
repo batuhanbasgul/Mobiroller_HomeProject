@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920354062180",
+    "firebase_url": "https://mobiroller-home-project-default-rtdb.firebaseio.com",
+    "project_id": "mobiroller-home-project",
+    "storage_bucket": "mobiroller-home-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920354062180:android:cd4e74656553b953db0471",
+        "android_client_info": {
+          "package_name": "com.example.mobiroller_homeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920354062180-i4ll1h2t981d0thn8gijbmh3rfo813ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNmnzDK2droPIrEK5Su48RYkCY-4asZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920354062180-i4ll1h2t981d0thn8gijbmh3rfo813ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

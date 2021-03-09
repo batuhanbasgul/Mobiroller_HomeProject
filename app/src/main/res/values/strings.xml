@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Mobiroller</string>
+    <string name="app_sub_name">Home Project</string>
+    <string name="null_value">null</string>
+    <string name="currency">TL</string>
+    <string name="no_description">Ürün açıklaması paylaşılmamış.</string>
+    <string name="update">Ürünü Güncelle</string>
+    <string name="delete">Ürünü Sil</string>
+
+    <string name="product_add">Ürün Ekle</string>
+    <string name="product_update">Ürün Güncelle</string>
+    <string name="product_search">Ürün Ara</string>
+    <string name="product_sort">Ürünleri Sırala</string>
+    <string name="product_image">Ürün Resmi</string>
+    <string name="product_enter_info">Ürün Bilgilerini Giriniz</string>
+    <string name="product_update_info">Ürün Bilgilerini Düzenleyebilirsiniz</string>
+
+    //Sort
+    <string name="alert_sort_title">Seçim Yapınız</string>
+    <string name="alert_sort_category">Kategori</string>
+    <string name="alert_sort_sorting_property">Sıralama Özelliği</string>
+    <string name="alert_sort_apply">Uygula</string>
+    <string name="alert_sort_cancel">İptal</string>
+
+    //Add
+    <string name="add_image">Resim Seçiniz</string>
+    <string name="add_product_name">Ürün Adı</string>
+    <string name="add_product_price">Ürün Fiyatı</string>
+    <string name="add_description_short">Ürün Bilgisi</string>
+    <string name="add_description">Ürün Açıklama (İsteğe Bağlı)</string>
+    <string name="add_add">Ekle</string>
+    <string name="add_cancel">İptal</string>
+
+    //Update
+    <string name="update_image">Resim Seçiniz</string>
+    <string name="update_product_name">Ürün Adı</string>
+    <string name="update_product_price">Ürün Fiyatı</string>
+    <string name="update_description_short">Ürün Bilgisi</string>
+    <string name="update_description">Ürün Açıklama (İsteğe Bağlı)</string>
+    <string name="update_update">Güncelle</string>
+    <string name="update_cancel">İptal</string>
+
+    //Notifications
+    <string name="add_failed">Kaydetme Başarısız</string>
+    <string name="add_success">Kaydetme Başarılı</string>
+    <string name="delete_failed">Silme Başarısız</string>
+    <string name="delete_success">Silme Başarılı</string>
+    <string name="update_failed">Güncelleme Başarısız</string>
+    <string name="update_success">Güncelleme Başarılı</string>
+    <string name="empty_space_name">Ürün İsmi Boş Bırakılamaz</string>
+    <string name="empty_space_price">Ürün Fiyatı Boş Bırakılamaz</string>
+    <string name="empty_space_description">Ürün Bilgisi Boş Bırakılamaz</string>
+    <string name="empty_space_category">Ürün Kategorisini Seçiniz</string>
+    <string name="empty_space_image">Ürün İçin Resim Seçiniz</string>
+
+    //Category
+    <string-array name="categories">
+        <item>Hepsi</item>
+        <item>Elektronik</item>
+        <item>Yiyecek, İçecek</item>
+        <item>Ev, Yaşam</item>
+        <item>Bahçe</item>
+        <item>Temizlik</item>
+    </string-array>
+
+    //SortingProperty
+    <string-array name="sorting_property">
+        <item>Sıralama Yok</item>
+        <item>İsme göre alfabetik sırala</item>
+        <item>İsme göre tersten sırala</item>
+        <item>Tarihe göre sırala(Önce Yeni)</item>
+        <item>Tarihe göre sırala(Önce Eski)</item>
+        <item>Fiyata göre sırala(Artan)</item>
+        <item>Fiyata göre sırala(Azalan)</item>
+    </string-array>
+</resources>
